@@ -1,3 +1,4 @@
+## New file (c) Paul Colmer 2014
 ## Put comments here that give an overall description of what your
 ## functions do
 
